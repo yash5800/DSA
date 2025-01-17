@@ -99,7 +99,7 @@ A **Single Linked List (SLL)** is a linear data structure where each node contai
 11. **getLast(index):** Retrieves the last node.
 
 ### Code:
-[View the Single Linked List (SLL) implementation here](./SingleLinkList.js)
+[View the Single Linked List (SLL) implementation here](./SingleLinkedList.js)
 
 ---
 
@@ -115,7 +115,7 @@ A **Double Linked List (DLL)** is a more advanced version of a linked list where
 - Removing nodes at the beginning and end.
 - Traversing forward and backward.
 
-[View the Double Linked List (DLL) Structure](./DoubleLinkList.js)
+[View the Double Linked List (DLL) Structure](./DoubleLinkedList.js)
 
 ---
 
