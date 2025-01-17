@@ -61,17 +61,19 @@ On Day 2, I created my own custom array class to understand how arrays work unde
 ## Problem Solving
 
 ### Problems Solved:
-1. **Two Sum**  
+**Two Sum**  
    Find two numbers in an array that add up to a specific target.  
    Example:  
    Input: `[2, 7, 11, 15]`, Target: `9`  
    Output: `[0, 1]` (Because `2 + 7 = 9`).
 
-2. **Divide Array into N Chunks**  
+**Divide Array into N Chunks**  
    Divide an array into `n` chunks of approximately equal size.  
    Example:  
    Input: `[1, 2, 3, 4, 5, 6]`, Chunks: `3`  
    Output: `[[1, 2], [3, 4], [5, 6]]`.
+   
+and others..
 
 ---
 
@@ -93,6 +95,8 @@ A **Single Linked List (SLL)** is a linear data structure where each node contai
 7. **insert(pos, val):** Inserts a node at a specific position.
 8. **size():** Returns the total number of nodes.
 9. **clear():** Removes all nodes.
+10. **getFirst():** Retrieves the beginning node.
+11. **getLast(index):** Retrieves the last node.
 
 ### Code:
 [View the Single Linked List (SLL) implementation here](./SingleLinkList.js)
@@ -110,6 +114,8 @@ A **Double Linked List (DLL)** is a more advanced version of a linked list where
 - Adding nodes at the beginning and end.
 - Removing nodes at the beginning and end.
 - Traversing forward and backward.
+
+[View the Double Linked List (DLL) Structure](./DoubleLinkList.js)
 
 ---
 
