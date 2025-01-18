@@ -79,11 +79,11 @@ and others..
 
 ## Linked Lists
 
-### Single Linked List (SLL)
+## Single Linked List (SLL)
 
 A **Single Linked List (SLL)** is a linear data structure where each node contains:
-- A `value` (data).
-- A `next` pointer to the next node in the sequence.
+- A value (data).
+- A next pointer to the next node in the sequence.
 
 ### Methods Implemented:
 1. **push(val):** Adds a node to the end.
@@ -103,19 +103,33 @@ A **Single Linked List (SLL)** is a linear data structure where each node contai
 
 ---
 
-### Double Linked List (DLL)
+## Reverse Single Linked List (RSLL)
+
+A **Reverse Single Linked List (RSLL)** reverses the order of the nodes in a single linked list.
+
+### Methods:
+1. **reverse():** Reverses the linked list in place.
+
+### Code:
+[View the Reverse Single Linked List (RSLL) implementation here](./ReverseSingleLinkedList.js)
+
+---
+
+## Double Linked List (DLL)
 
 A **Double Linked List (DLL)** is a more advanced version of a linked list where each node contains:
-- A `value` (data).
-- A `next` pointer to the next node.
-- A `prev` pointer to the previous node.
+- A value (data).
+- A next pointer to the next node.
+- A prev pointer to the previous node.
 
-### Features To Be Implemented:
-- Adding nodes at the beginning and end.
-- Removing nodes at the beginning and end.
-- Traversing forward and backward.
+### Methods Implemented:
+1. **push(val):** Adds a node to the end.
+2. **pop():** Removes the last node.
+3. **unshift(val):** Adds a node to the beginning.
+4. **shift():** Removes the first node.
 
-[View the Double Linked List (DLL) Structure](./DoubleLinkedList.js)
+### Code:
+[View the Double Linked List (DLL) implementation here](./DoubleLinkedList.js)
 
 ---
 
@@ -136,9 +150,6 @@ Here are the topics I plan to learn and implement next:
 
 5. **Dynamic Programming**  
    Solving problems by breaking them into smaller subproblems and using memoization.
-
-6. **Searching Algorithms**  
-   Learning Linear Search, Binary Search, and other advanced searching techniques.
 
 ---
 
