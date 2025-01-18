@@ -1,3 +1,16 @@
+//Single Linked List Push Method
+//Single Linked List Pop Method
+//Single Linked List Unshift Method
+//Single Linked List Shift Method
+//Single Linked List GET FIRST Method
+//Single Linked List GET LAST Method
+//Single Linked List GET ELEMENT BY INDEX Method
+//Single Linked List SET Method
+//Single Linked List INSERT Method
+//Single Linked List SIZE Method
+//Single Linked List CLEAR Method
+
+
 class node{
   constructor(val){
     this.data = val
