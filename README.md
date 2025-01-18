@@ -101,7 +101,6 @@ A **Single Linked List (SLL)** is a linear data structure where each node contai
 ### Code:
 [View the Single Linked List (SLL) implementation here](./SingleLinkedList.js)
 
----
 
 ## Reverse Single Linked List (RSLL)
 
@@ -113,7 +112,6 @@ A **Reverse Single Linked List (RSLL)** reverses the order of the nodes in a sin
 ### Code:
 [View the Reverse Single Linked List (RSLL) implementation here](./ReverseSingleLinkedList.js)
 
----
 
 ## Double Linked List (DLL)
 
